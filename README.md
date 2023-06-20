@@ -1,6 +1,6 @@
 # bloodbank
 
-A new Flutter project.
+blood bank manegment system
 
 ## Getting Started
 
